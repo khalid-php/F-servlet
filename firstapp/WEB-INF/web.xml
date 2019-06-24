@@ -1,0 +1,10 @@
+<web-app>
+	<servlet>
+		<servlet-name>fa</servlet-name>
+		<servlet-class>First</servlet-class>
+	</servlet>
+	<servlet-mapping>
+		<servlet-name>fa</servlet-name>
+		<url-pattern>/first</url-pattern>
+	</servlet-mapping>
+</web-app>
